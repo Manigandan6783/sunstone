@@ -8,6 +8,8 @@
 <body>
 	<h1>Welcome to the Social Media Web Application!</h1>
 
+	<a href="social_media_action.html">Go to Social Media Action Page</a>
+
 	<form id="post-form">
 		<label for="post">Write a post:</label><br>
 		<textarea id="post" name="post" rows="4" cols="50"></textarea><br>
